@@ -1,4 +1,4 @@
-# Mern ToDo Website 
+# MERN ToDo Website 
 
 **Description:**
 Built a functional to-do app using the MERN Stack. It allows us to create, manage, and track tasks with a simple interface. 
@@ -19,7 +19,7 @@ Built a functional to-do app using the MERN Stack. It allows us to create, manag
 * Database (MongoDB):
 * Stores task data in a document format (e.g., title, completed flag).
 
-
+![final image 1](https://github.com/FahadKhanRaj/mern-todo-website/assets/91188743/1bfa2754-bd08-4859-93ae-73ab9c4288ff)
 ![final image](https://github.com/FahadKhanRaj/mern-todo-website/assets/91188743/a3709ee8-9359-4b53-8811-725fc824a6e9)
 ![final image 2](https://github.com/FahadKhanRaj/mern-todo-website/assets/91188743/7011fffe-8569-4310-bc10-78af00342176)
 
